@@ -31,5 +31,5 @@ The `Playlist` class manages the `head` and `current` pointers, providing method
 
 ## 👤 Author
 
-**Rowan Ezzat Mohamed** Software Engineer & Data Science Student  
+**Rowan Ezzat** Software Engineer & Data Science Student  
 - GitHub: [@rowanezzat37-dev](https://github.com/rowanezzat37-dev)
